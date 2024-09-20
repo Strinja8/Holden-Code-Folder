@@ -7,8 +7,8 @@ public class App {
 
         System.out.println(message1.length());
 
-        System.out.println(message1.substring(0, 5));
+        System.out.println(message1.substring(0, 3));
         
-        System.out.println(message1.indexOf("hello"));
+        System.out.println(message1.indexOf("test"));
     }
 }
