@@ -11,7 +11,7 @@ public class App {
         String message1 = "I am very happy!";
         String target1 = "very";
 
-        String message2 = "That was great - lol.";
+        String message2 = "That was great - lol";
         String target2 = "lol";
 // Part One of Assingment
         int firNum = message1.indexOf(target1);
