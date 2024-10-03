@@ -1,27 +1,15 @@
-import java.util.Scanner;
+/*Bigger or Smaller number calculator
+ * Holden Strinja
+ * October 3, 2024
+ * The Program gets two numbers from the user. It then takes the two numbers to see if the first number is bigger, smaller, or equal to the second number. If bigger, output is Yes.
+ * If smaller, output is no. If equal, output is Equal. */
 
 public class BigSmall {
-    Scanner nums = new Scanner(System.in);
-    private int num1 = 0;
-    private int num2 = 0;
-
-    public void input(){
-    System.out.print("Enter Your First Number: ");
-        num1 = nums.nextInt();
-    System.out.print("Enter Your Second Number: ");
-        num2 = nums.nextInt();
+    public static void main(String[] args) throws Exception {
+        BigSmallRunner BoS = new BigSmallRunner();
+        
+        //Running both the "input" and "check" methods
+        BoS.input();
+        BoS.check();
     }
-
-    public void check(){
-        if (num1 > num2){
-            System.out.println("Your First Number (" + num1 + ") is Bigger then Your Second Number (" + num2 + ")!");
-        }
-        if (num1 < num2){
-            System.out.println("Your First Number (" + num1 + ") is Smaller then Your Second Number (" + num2 + ").");
-        }
-        if (num1 == num2){
-            System.out.println("Your First Number (" + num1 + ") is the same as Your Second Number (" + num2 + ")?");
-    }
-System.out.println("Bye Bye");
-}}
-
+}
