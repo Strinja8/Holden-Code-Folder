@@ -1,9 +1,9 @@
 public class SumRunner {
     public static void main(String[] args) throws Exception {
-       Sum sus = new SumRunner();
+        Sums sus = new Sums();
 
-       sus.setnums();
-
-
+        //Running both methods
+        sus.setNums();
+        sus.sums();
     }
 }
