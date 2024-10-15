@@ -32,7 +32,7 @@ public class TriArea {
     
     // Final Print method
     public void print(){
-        System.out.printf("Area of the Triangle = " + "%.3f",AREA);
+        System.out.printf("Area of the Triangle = " + "%.3f",AREA + ".");
     }
 
 
