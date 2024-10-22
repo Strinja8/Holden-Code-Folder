@@ -1,8 +1,7 @@
 import java.util.Scanner;
 
 public class MilesPerHour {
-int H, M, TH = 0;
-double D, MPH = 0.0;
+double D, MPH, H, M, TH = 0.0;
 Scanner nums = new Scanner(System.in);
 
 public void setinfo() {
