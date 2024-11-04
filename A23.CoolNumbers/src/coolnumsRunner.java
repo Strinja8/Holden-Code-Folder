@@ -20,8 +20,14 @@ public class coolnumsRunner {
         max = nums.nextInt();  
         }   
 
+    public void coolnum() {
+        if 
+    }
+
+
+
     //Method to calculate total of "cool numbers"
-        public void calc() {
+        public void countcoolnums() {
         for (int i = 6; i < max; i++) { //For loop to check every number between 6 and the max
             if (i % 3 == 1 && i % 4 == 1 && i % 5 == 1 && i % 6 == 1) {
                 count++; // Adding to the total cool numbers counter
