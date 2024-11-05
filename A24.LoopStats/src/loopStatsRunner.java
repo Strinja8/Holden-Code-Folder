@@ -2,14 +2,11 @@
 Loop Stats
 Holden Strinja
 November 1, 2024
-The program gets a minimun and a maximum parameter and then adds
-each number between those numbers together while also counting
-and printing the total amount of even and odd numbers inbetween
-your parameters
+The program gets a minimun and a maximum parameter and then adds each number between those numbers together while also counting and printing the total amount of even and 
+odd numbers inbetween your parameters
  */
 
 import java.util.Scanner;
-
 public class loopStatsRunner {
 
     //Defining variables and scanner

@@ -12,7 +12,8 @@ public class App {
         while (game) {
             //Program
             cn.setnums();
-            cn.calc();
+            cn.iscn();
+            cn.countcn();
             cn.print();
             //Asks user if theyd want to go again
             System.out.println("Would you like to go again? (yes or no)"); 

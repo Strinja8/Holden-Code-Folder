@@ -13,6 +13,7 @@ public class coolnumsRunner {
     //Defining variables and scanner
     Scanner nums = new Scanner(System.in);
     int max, count;
+    boolean cooln;
 
     //method to get a max value from the user
     public void setnums() {
@@ -20,14 +21,15 @@ public class coolnumsRunner {
         max = nums.nextInt();  
         }   
 
-    public void coolnum() {
-        if 
-    }
-
-
-
+        //Method to test if a number is cool
+        public void iscn() {
+        if (max % 3 == 1 && max % 4 == 1 && max % 5 == 1 && max % 6 == 1) {
+            cooln = true;
+        }
+     }
+ 
     //Method to calculate total of "cool numbers"
-        public void countcoolnums() {
+        public void countcn() {
         for (int i = 6; i < max; i++) { //For loop to check every number between 6 and the max
             if (i % 3 == 1 && i % 4 == 1 && i % 5 == 1 && i % 6 == 1) {
                 count++; // Adding to the total cool numbers counter
@@ -37,6 +39,12 @@ public class coolnumsRunner {
 
    // Final Print Method
     public void print() {
+        if (cooln) {
+            System.out.println(max + " is a cool number!");
+        }
+        else {
+            System.out.println(max + " is NOT a cool number.");
+        }
         System.out.println("There are " + count + " cool numbers between 6 - " + max);
         count = 0; // Resetting the count variable if played multiple times in a row
     }
