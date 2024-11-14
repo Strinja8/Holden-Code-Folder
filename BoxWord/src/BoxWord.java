@@ -5,7 +5,6 @@ November 4, 2024
 The program gets a word from a user, and it then prints out the word as many times as the length of that word.
  */
 
-
 import java.util.Scanner;
 
 public class BoxWord {
