@@ -3,10 +3,11 @@ public class App {
         
         randomNumbers rn = new randomNumbers();
 
-        for (int i = 10; i > 0; i--) {
-            rn.setnums();
+        //Running the Code
+        for (int i = 10; i > 0; i--) { //For Loop to print out program 10 times
+            rn.setnums(); 
             rn.calc();
-            System.out.println();
+            System.out.println(); //Blank line to divide each run of the program
         }
   
     }
