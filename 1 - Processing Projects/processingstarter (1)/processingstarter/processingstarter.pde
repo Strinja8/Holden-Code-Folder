@@ -4,5 +4,5 @@ void setup() {
 }
 
 void draw() {
-
+    circle(0, 0, 200);
 }
