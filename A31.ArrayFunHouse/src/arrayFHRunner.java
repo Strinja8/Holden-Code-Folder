@@ -11,15 +11,17 @@ public void getsum(int[] numArray, int start, int stop) {
         sum += numArray[i];
     }
     System.out.println("The Sum of Numbers " + start + "-" + stop + " is: " + sum);
+    sum = 0;
 }  
 
 public void count(int[] numArray, int value) {
     for (int i = 0; i <= numArray.length-1; i++) {
-        if (numArray[i] == 0) {
+        if (numArray[i] == value) {
             counter++;
         }
     }
     System.out.println("# of " + value + "s = " + counter);
+    counter = 0;
 }
 }
 
