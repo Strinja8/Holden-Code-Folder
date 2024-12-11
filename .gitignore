@@ -1,0 +1,1014 @@
+
+1 - Processing Projects/BouncingBalls/FirstProccessingProject12159227793059864919.autosave
+1 - Processing Projects/BouncingBalls/FirstProccessingProject1982213820239574356.autosave
+processing-4.3/java/bin/javac.exe
+processing-4.3/java/bin/javadoc.exe
+processing-4.3/java/bin/javajpeg.dll
+processing-4.3/java/bin/javap.exe
+processing-4.3/java/bin/javaw.exe
+processing-4.3/java/bin/jawt.dll
+processing-4.3/java/bin/jcmd.exe
+processing-4.3/java/bin/jconsole.exe
+processing-4.3/java/bin/jdb.exe
+processing-4.3/java/bin/jdeprscan.exe
+processing-4.3/java/bin/jdeps.exe
+processing-4.3/java/bin/jdwp.dll
+processing-4.3/java/bin/jfr.exe
+processing-4.3/java/bin/jhsdb.exe
+processing-4.3/java/bin/jimage.dll
+processing-4.3/java/bin/jimage.exe
+processing-4.3/java/bin/jinfo.exe
+processing-4.3/java/bin/jli.dll
+processing-4.3/java/bin/jlink.exe
+processing-4.3/java/bin/jmap.exe
+processing-4.3/java/bin/jmod.exe
+processing-4.3/java/bin/jpackage.dll
+processing-4.3/java/bin/jpackage.exe
+processing-4.3/java/bin/jps.exe
+processing-4.3/java/bin/jrunscript.exe
+processing-4.3/java/bin/jshell.exe
+processing-4.3/java/bin/jsound.dll
+processing-4.3/java/bin/jstack.exe
+processing-4.3/java/bin/jstat.exe
+processing-4.3/java/bin/jstatd.exe
+processing-4.3/java/bin/jsvml.dll
+processing-4.3/java/bin/keytool.exe
+processing-4.3/java/bin/kinit.exe
+processing-4.3/java/bin/klist.exe
+processing-4.3/java/bin/ktab.exe
+processing-4.3/java/bin/lcms.dll
+processing-4.3/java/bin/le.dll
+processing-4.3/java/bin/management.dll
+processing-4.3/java/bin/management_agent.dll
+processing-4.3/java/bin/management_ext.dll
+processing-4.3/java/bin/mlib_image.dll
+processing-4.3/java/bin/msvcp140.dll
+processing-4.3/java/bin/net.dll
+processing-4.3/java/bin/nio.dll
+processing-4.3/java/bin/prefs.dll
+processing-4.3/java/bin/rmi.dll
+processing-4.3/java/bin/rmiregistry.exe
+processing-4.3/java/bin/saproc.dll
+processing-4.3/java/bin/serialver.exe
+processing-4.3/java/bin/server/classes.jsa
+processing-4.3/java/bin/server/classes_nocoops.jsa
+processing-4.3/java/bin/server/jvm.dll
+processing-4.3/java/bin/splashscreen.dll
+processing-4.3/java/bin/sspi_bridge.dll
+processing-4.3/java/bin/sunmscapi.dll
+processing-4.3/java/bin/ucrtbase.dll
+processing-4.3/java/bin/vcruntime140.dll
+processing-4.3/java/bin/vcruntime140_1.dll
+processing-4.3/java/bin/verify.dll
+processing-4.3/java/bin/w2k_lsa_auth.dll
+processing-4.3/java/bin/windowsaccessbridge-64.dll
+processing-4.3/java/bin/WinFallbackLookup.dll
+processing-4.3/java/bin/zip.dll
+processing-4.3/java/conf/logging.properties
+processing-4.3/java/conf/management/jmxremote.access
+processing-4.3/java/conf/management/jmxremote.password.template
+processing-4.3/java/conf/management/management.properties
+processing-4.3/java/conf/net.properties
+processing-4.3/java/conf/security/java.policy
+processing-4.3/java/conf/security/java.security
+processing-4.3/java/conf/security/policy/limited/default_local.policy
+processing-4.3/java/conf/security/policy/limited/default_US_export.policy
+processing-4.3/java/conf/security/policy/limited/exempt_local.policy
+processing-4.3/java/conf/security/policy/README.txt
+processing-4.3/java/conf/security/policy/unlimited/default_local.policy
+processing-4.3/java/conf/security/policy/unlimited/default_US_export.policy
+processing-4.3/java/conf/sound.properties
+processing-4.3/java/include/classfile_constants.h
+processing-4.3/java/include/jawt.h
+processing-4.3/java/include/jdwpTransport.h
+processing-4.3/java/include/jni.h
+processing-4.3/java/include/jvmti.h
+processing-4.3/java/include/jvmticmlr.h
+processing-4.3/java/include/win32/bridge/AccessBridgeCallbacks.h
+processing-4.3/java/include/win32/bridge/AccessBridgeCalls.h
+processing-4.3/java/include/win32/bridge/AccessBridgePackages.h
+processing-4.3/java/include/win32/jawt_md.h
+processing-4.3/java/include/win32/jni_md.h
+processing-4.3/java/jmods/java.base.jmod
+processing-4.3/java/jmods/java.compiler.jmod
+processing-4.3/java/jmods/java.datatransfer.jmod
+processing-4.3/java/jmods/java.desktop.jmod
+processing-4.3/java/jmods/java.instrument.jmod
+processing-4.3/java/jmods/java.logging.jmod
+processing-4.3/java/jmods/java.management.jmod
+processing-4.3/java/jmods/java.management.rmi.jmod
+processing-4.3/java/jmods/java.naming.jmod
+processing-4.3/java/jmods/java.net.http.jmod
+processing-4.3/java/jmods/java.prefs.jmod
+processing-4.3/java/jmods/java.rmi.jmod
+processing-4.3/java/jmods/java.scripting.jmod
+processing-4.3/java/jmods/java.se.jmod
+processing-4.3/java/jmods/java.security.jgss.jmod
+processing-4.3/java/jmods/java.security.sasl.jmod
+processing-4.3/java/jmods/java.smartcardio.jmod
+processing-4.3/java/jmods/java.sql.jmod
+processing-4.3/java/jmods/java.sql.rowset.jmod
+processing-4.3/java/jmods/java.transaction.xa.jmod
+processing-4.3/java/jmods/java.xml.crypto.jmod
+processing-4.3/java/jmods/java.xml.jmod
+processing-4.3/java/jmods/jdk.accessibility.jmod
+processing-4.3/java/jmods/jdk.attach.jmod
+processing-4.3/java/jmods/jdk.charsets.jmod
+processing-4.3/java/jmods/jdk.compiler.jmod
+processing-4.3/java/jmods/jdk.crypto.cryptoki.jmod
+processing-4.3/java/jmods/jdk.crypto.ec.jmod
+processing-4.3/java/jmods/jdk.crypto.mscapi.jmod
+processing-4.3/java/jmods/jdk.dynalink.jmod
+processing-4.3/java/jmods/jdk.editpad.jmod
+processing-4.3/java/jmods/jdk.hotspot.agent.jmod
+processing-4.3/java/jmods/jdk.httpserver.jmod
+processing-4.3/java/jmods/jdk.incubator.foreign.jmod
+processing-4.3/java/jmods/jdk.incubator.vector.jmod
+processing-4.3/java/jmods/jdk.internal.ed.jmod
+processing-4.3/java/jmods/jdk.internal.jvmstat.jmod
+processing-4.3/java/jmods/jdk.internal.le.jmod
+processing-4.3/java/jmods/jdk.internal.opt.jmod
+processing-4.3/java/jmods/jdk.internal.vm.ci.jmod
+processing-4.3/java/jmods/jdk.internal.vm.compiler.jmod
+processing-4.3/java/jmods/jdk.internal.vm.compiler.management.jmod
+processing-4.3/java/jmods/jdk.jartool.jmod
+processing-4.3/java/jmods/jdk.javadoc.jmod
+processing-4.3/java/jmods/jdk.jcmd.jmod
+processing-4.3/java/jmods/jdk.jconsole.jmod
+processing-4.3/java/jmods/jdk.jdeps.jmod
+processing-4.3/java/jmods/jdk.jdi.jmod
+processing-4.3/java/jmods/jdk.jdwp.agent.jmod
+processing-4.3/java/jmods/jdk.jfr.jmod
+processing-4.3/java/jmods/jdk.jlink.jmod
+processing-4.3/java/jmods/jdk.jpackage.jmod
+processing-4.3/java/jmods/jdk.jshell.jmod
+processing-4.3/java/jmods/jdk.jsobject.jmod
+processing-4.3/java/jmods/jdk.jstatd.jmod
+processing-4.3/java/jmods/jdk.localedata.jmod
+processing-4.3/java/jmods/jdk.management.agent.jmod
+processing-4.3/java/jmods/jdk.management.jfr.jmod
+processing-4.3/java/jmods/jdk.management.jmod
+processing-4.3/java/jmods/jdk.naming.dns.jmod
+processing-4.3/java/jmods/jdk.naming.rmi.jmod
+processing-4.3/java/jmods/jdk.net.jmod
+processing-4.3/java/jmods/jdk.nio.mapmode.jmod
+processing-4.3/java/jmods/jdk.random.jmod
+processing-4.3/java/jmods/jdk.sctp.jmod
+processing-4.3/java/jmods/jdk.security.auth.jmod
+processing-4.3/java/jmods/jdk.security.jgss.jmod
+processing-4.3/java/jmods/jdk.unsupported.desktop.jmod
+processing-4.3/java/jmods/jdk.unsupported.jmod
+processing-4.3/java/jmods/jdk.xml.dom.jmod
+processing-4.3/java/jmods/jdk.zipfs.jmod
+processing-4.3/java/legal.zip
+processing-4.3/java/lib/classlist
+processing-4.3/java/lib/ct.sym
+processing-4.3/java/lib/fontconfig.bfc
+processing-4.3/java/lib/fontconfig.properties.src
+processing-4.3/java/lib/jawt.lib
+processing-4.3/java/lib/jfr/default.jfc
+processing-4.3/java/lib/jfr/profile.jfc
+processing-4.3/java/lib/jrt-fs.jar
+processing-4.3/java/lib/jvm.cfg
+processing-4.3/java/lib/jvm.lib
+processing-4.3/java/lib/modules
+processing-4.3/java/lib/psfont.properties.ja
+processing-4.3/java/lib/psfontj2d.properties
+processing-4.3/java/lib/security/blocked.certs
+processing-4.3/java/lib/security/cacerts
+processing-4.3/java/lib/security/default.policy
+processing-4.3/java/lib/security/public_suffix_list.dat
+processing-4.3/java/lib/tzdb.dat
+processing-4.3/java/lib/tzmappings
+processing-4.3/java/NOTICE
+processing-4.3/java/release
+processing-4.3/lib/about-1x.png
+processing-4.3/lib/about-2x.png
+processing-4.3/lib/ant-launcher.jar
+processing-4.3/lib/ant.jar
+processing-4.3/lib/defaults.txt
+processing-4.3/lib/flatlaf.jar
+processing-4.3/lib/fonts/ProcessingSans-Bold.ttf
+processing-4.3/lib/fonts/ProcessingSans-LICENSE.md
+processing-4.3/lib/fonts/ProcessingSans-Regular.ttf
+processing-4.3/lib/fonts/SourceCodePro-Bold.ttf
+processing-4.3/lib/fonts/SourceCodePro-LICENSE.txt
+processing-4.3/lib/fonts/SourceCodePro-Regular.ttf
+processing-4.3/lib/footer/console.svg
+processing-4.3/lib/footer/error.svg
+processing-4.3/lib/icons/app-1024.png
+processing-4.3/lib/icons/app-128.png
+processing-4.3/lib/icons/app-16.png
+processing-4.3/lib/icons/app-256.png
+processing-4.3/lib/icons/app-32.png
+processing-4.3/lib/icons/app-48.png
+processing-4.3/lib/icons/app-512.png
+processing-4.3/lib/icons/app-64.png
+processing-4.3/lib/icons/foundation-16.png
+processing-4.3/lib/icons/foundation-32.png
+processing-4.3/lib/icons/foundation-64.png
+processing-4.3/lib/icons/pde-1024.png
+processing-4.3/lib/icons/pde-128.png
+processing-4.3/lib/icons/pde-16.png
+processing-4.3/lib/icons/pde-256.png
+processing-4.3/lib/icons/pde-32.png
+processing-4.3/lib/icons/pde-48.png
+processing-4.3/lib/icons/pde-512.png
+processing-4.3/lib/icons/pde-64.png
+processing-4.3/lib/icons/README.md
+processing-4.3/lib/jna-platform.jar
+processing-4.3/lib/jna.jar
+processing-4.3/lib/jnidispatch.dll
+processing-4.3/lib/languages/PDE.properties
+processing-4.3/lib/languages/PDE_ar.properties
+processing-4.3/lib/languages/PDE_ca.properties
+processing-4.3/lib/languages/PDE_de.properties
+processing-4.3/lib/languages/PDE_el.properties
+processing-4.3/lib/languages/PDE_en.properties
+processing-4.3/lib/languages/PDE_es.properties
+processing-4.3/lib/languages/PDE_fr.properties
+processing-4.3/lib/languages/PDE_it.properties
+processing-4.3/lib/languages/PDE_ja.properties
+processing-4.3/lib/languages/PDE_ko.properties
+processing-4.3/lib/languages/PDE_nl.properties
+processing-4.3/lib/languages/PDE_pt.properties
+processing-4.3/lib/languages/PDE_ru.properties
+processing-4.3/lib/languages/PDE_tr.properties
+processing-4.3/lib/languages/PDE_uk.properties
+processing-4.3/lib/languages/PDE_zh-CN.properties
+processing-4.3/lib/languages/PDE_zh-TW.properties
+processing-4.3/lib/manager/chevron.svg
+processing-4.3/lib/manager/close.svg
+processing-4.3/lib/manager/foundation.svg
+processing-4.3/lib/manager/list-downloading.svg
+processing-4.3/lib/manager/list-incompatible.svg
+processing-4.3/lib/manager/list-up-to-date.svg
+processing-4.3/lib/manager/list-update-available.svg
+processing-4.3/lib/manager/panel-install.svg
+processing-4.3/lib/manager/panel-remove.svg
+processing-4.3/lib/manager/panel-update.svg
+processing-4.3/lib/manager/search-reset.svg
+processing-4.3/lib/manager/search.svg
+processing-4.3/lib/naming.json
+processing-4.3/lib/pde.ico
+processing-4.3/lib/pde.jar
+processing-4.3/lib/pdex.ico
+processing-4.3/lib/pdez.ico
+processing-4.3/lib/processing.ico
+processing-4.3/lib/status/console-collapse.svg
+processing-4.3/lib/status/console-expand.svg
+processing-4.3/lib/status/copy-to-clipboard.svg
+processing-4.3/lib/status/search.svg
+processing-4.3/lib/theme/Alloys/agpalilik.txt
+processing-4.3/lib/theme/Alloys/armanty.txt
+processing-4.3/lib/theme/Alloys/bacubirito.txt
+processing-4.3/lib/theme/Alloys/bondoc.txt
+processing-4.3/lib/theme/Alloys/brahin.txt
+processing-4.3/lib/theme/Alloys/esquel.txt
+processing-4.3/lib/theme/Alloys/gancedo.txt
+processing-4.3/lib/theme/Alloys/hoba.txt
+processing-4.3/lib/theme/Alloys/imilac.txt
+processing-4.3/lib/theme/Alloys/jepara.txt
+processing-4.3/lib/theme/Alloys/mbozi.txt
+processing-4.3/lib/theme/Alloys/morito.txt
+processing-4.3/lib/theme/Alloys/omolon.txt
+processing-4.3/lib/theme/Alloys/order.txt
+processing-4.3/lib/theme/Alloys/seymchan.txt
+processing-4.3/lib/theme/Alloys/tagish.txt
+processing-4.3/lib/theme/Alloys/youxi.txt
+processing-4.3/lib/theme/Minerals/antimony.txt
+processing-4.3/lib/theme/Minerals/bauxite.txt
+processing-4.3/lib/theme/Minerals/beryl.txt
+processing-4.3/lib/theme/Minerals/calcite.txt
+processing-4.3/lib/theme/Minerals/feldspar.txt
+processing-4.3/lib/theme/Minerals/fluorite.txt
+processing-4.3/lib/theme/Minerals/gabbro.txt
+processing-4.3/lib/theme/Minerals/galena.txt
+processing-4.3/lib/theme/Minerals/garnet.txt
+processing-4.3/lib/theme/Minerals/jasper.txt
+processing-4.3/lib/theme/Minerals/kyanite.txt
+processing-4.3/lib/theme/Minerals/malachite.txt
+processing-4.3/lib/theme/Minerals/olivine.txt
+processing-4.3/lib/theme/Minerals/order.txt
+processing-4.3/lib/theme/Minerals/orpiment.txt
+processing-4.3/lib/theme/Minerals/pyrite.txt
+processing-4.3/lib/theme/Minerals/serandite.txt
+processing-4.3/lib/theme/mini.svg
+processing-4.3/lib/theme/theme.txt
+processing-4.3/lib/toolbar/continue.svg
+processing-4.3/lib/toolbar/debug.svg
+processing-4.3/lib/toolbar/run.svg
+processing-4.3/lib/toolbar/step.svg
+processing-4.3/lib/toolbar/stop.svg
+processing-4.3/lib/version.txt
+processing-4.3/lib/welcome/examples/arctan.png
+processing-4.3/lib/welcome/examples/flocking.png
+processing-4.3/lib/welcome/examples/mouse.png
+processing-4.3/lib/welcome/examples/rotating.png
+processing-4.3/lib/welcome/index.html
+processing-4.3/lib/welcome/style.css
+processing-4.3/modes/java/application/application.icns
+processing-4.3/modes/java/application/application.ico
+processing-4.3/modes/java/application/Info.plist.tmpl
+processing-4.3/modes/java/application/launch4j/bin/ld.exe
+processing-4.3/modes/java/application/launch4j/bin/LICENSE.txt
+processing-4.3/modes/java/application/launch4j/bin/windres.exe
+processing-4.3/modes/java/application/launch4j/head/consolehead.o
+processing-4.3/modes/java/application/launch4j/head/guihead.o
+processing-4.3/modes/java/application/launch4j/head/head.o
+processing-4.3/modes/java/application/launch4j/head/LICENSE.txt
+processing-4.3/modes/java/application/launch4j/launch4j.jar
+processing-4.3/modes/java/application/launch4j/lib/LICENSE.txt
+processing-4.3/modes/java/application/launch4j/lib/xstream.jar
+processing-4.3/modes/java/application/launch4j/LICENSE.txt
+processing-4.3/modes/java/application/launch4j/w32api/crt2.o
+processing-4.3/modes/java/application/launch4j/w32api/libadvapi32.a
+processing-4.3/modes/java/application/launch4j/w32api/libgcc.a
+processing-4.3/modes/java/application/launch4j/w32api/libkernel32.a
+processing-4.3/modes/java/application/launch4j/w32api/libmingw32.a
+processing-4.3/modes/java/application/launch4j/w32api/libmingwex.a
+processing-4.3/modes/java/application/launch4j/w32api/libmoldname.a
+processing-4.3/modes/java/application/launch4j/w32api/libmsvcrt.a
+processing-4.3/modes/java/application/launch4j/w32api/libshell32.a
+processing-4.3/modes/java/application/launch4j/w32api/libuser32.a
+processing-4.3/modes/java/application/launch4j/w32api/LICENSE.txt
+processing-4.3/modes/java/application/stub-macos-aarch64
+processing-4.3/modes/java/application/stub-macos-x86_64
+processing-4.3/modes/java/examples/Basics/Arrays/Array/Array.pde
+processing-4.3/modes/java/examples/Basics/Arrays/Array2D/Array2D.pde
+processing-4.3/modes/java/examples/Basics/Arrays/ArrayObjects/ArrayObjects.pde
+processing-4.3/modes/java/examples/Basics/Arrays/ArrayObjects/Module.pde
+processing-4.3/modes/java/examples/Basics/Camera/MoveEye/MoveEye.pde
+processing-4.3/modes/java/examples/Basics/Camera/Orthographic/Orthographic.pde
+processing-4.3/modes/java/examples/Basics/Camera/Perspective/Perspective.pde
+processing-4.3/modes/java/examples/Basics/Color/Brightness/Brightness.pde
+processing-4.3/modes/java/examples/Basics/Color/ColorVariables/ColorVariables.pde
+processing-4.3/modes/java/examples/Basics/Color/Hue/Hue.pde
+processing-4.3/modes/java/examples/Basics/Color/LinearGradient/LinearGradient.pde
+processing-4.3/modes/java/examples/Basics/Color/RadialGradient/RadialGradient.pde
+processing-4.3/modes/java/examples/Basics/Color/Relativity/Relativity.pde
+processing-4.3/modes/java/examples/Basics/Color/Saturation/Saturation.pde
+processing-4.3/modes/java/examples/Basics/Color/WaveGradient/WaveGradient.pde
+processing-4.3/modes/java/examples/Basics/Control/Conditionals1/Conditionals1.pde
+processing-4.3/modes/java/examples/Basics/Control/Conditionals2/Conditionals2.pde
+processing-4.3/modes/java/examples/Basics/Control/EmbeddedIteration/EmbeddedIteration.pde
+processing-4.3/modes/java/examples/Basics/Control/Iteration/Iteration.pde
+processing-4.3/modes/java/examples/Basics/Control/LogicalOperators/LogicalOperators.pde
+processing-4.3/modes/java/examples/Basics/Data/CharactersStrings/CharactersStrings.pde
+processing-4.3/modes/java/examples/Basics/Data/CharactersStrings/data/SourceCodePro-Regular.ttf
+processing-4.3/modes/java/examples/Basics/Data/DatatypeConversion/data/SourceCodePro-Regular.ttf
+processing-4.3/modes/java/examples/Basics/Data/DatatypeConversion/DatatypeConversion.pde
+processing-4.3/modes/java/examples/Basics/Data/IntegersFloats/IntegersFloats.pde
+processing-4.3/modes/java/examples/Basics/Data/TrueFalse/TrueFalse.pde
+processing-4.3/modes/java/examples/Basics/Data/Variables/Variables.pde
+processing-4.3/modes/java/examples/Basics/Data/VariableScope/VariableScope.pde
+processing-4.3/modes/java/examples/Basics/Form/Bezier/Bezier.pde
+processing-4.3/modes/java/examples/Basics/Form/PieChart/PieChart.pde
+processing-4.3/modes/java/examples/Basics/Form/PointsLines/PointsLines.pde
+processing-4.3/modes/java/examples/Basics/Form/Primitives3D/Primitives3D.pde
+processing-4.3/modes/java/examples/Basics/Form/RegularPolygon/RegularPolygon.pde
+processing-4.3/modes/java/examples/Basics/Form/ShapePrimitives/ShapePrimitives.pde
+processing-4.3/modes/java/examples/Basics/Form/Star/Star.pde
+processing-4.3/modes/java/examples/Basics/Form/TriangleStrip/TriangleStrip.pde
+processing-4.3/modes/java/examples/Basics/Image/Alphamask/Alphamask.pde
+processing-4.3/modes/java/examples/Basics/Image/Alphamask/data/mask.jpg
+processing-4.3/modes/java/examples/Basics/Image/Alphamask/data/moonwalk.jpg
+processing-4.3/modes/java/examples/Basics/Image/BackgroundImage/BackgroundImage.pde
+processing-4.3/modes/java/examples/Basics/Image/BackgroundImage/data/moonwalk.jpg
+processing-4.3/modes/java/examples/Basics/Image/CreateImage/CreateImage.pde
+processing-4.3/modes/java/examples/Basics/Image/LoadDisplayImage/data/moonwalk.jpg
+processing-4.3/modes/java/examples/Basics/Image/LoadDisplayImage/LoadDisplayImage.pde
+processing-4.3/modes/java/examples/Basics/Image/Pointillism/data/moonwalk.jpg
+processing-4.3/modes/java/examples/Basics/Image/Pointillism/Pointillism.pde
+processing-4.3/modes/java/examples/Basics/Image/RequestImage/data/PT_anim0000.gif
+processing-4.3/modes/java/examples/Basics/Image/RequestImage/data/PT_anim0001.gif
+processing-4.3/modes/java/examples/Basics/Image/RequestImage/data/PT_anim0002.gif
+processing-4.3/modes/java/examples/Basics/Image/RequestImage/data/PT_anim0003.gif
+processing-4.3/modes/java/examples/Basics/Image/RequestImage/data/PT_anim0004.gif
+processing-4.3/modes/java/examples/Basics/Image/RequestImage/data/PT_anim0005.gif
+processing-4.3/modes/java/examples/Basics/Image/RequestImage/data/PT_anim0006.gif
+processing-4.3/modes/java/examples/Basics/Image/RequestImage/data/PT_anim0007.gif
+processing-4.3/modes/java/examples/Basics/Image/RequestImage/data/PT_anim0008.gif
+processing-4.3/modes/java/examples/Basics/Image/RequestImage/data/PT_anim0009.gif
+processing-4.3/modes/java/examples/Basics/Image/RequestImage/data/PT_anim0010.gif
+processing-4.3/modes/java/examples/Basics/Image/RequestImage/data/PT_anim0011.gif
+processing-4.3/modes/java/examples/Basics/Image/RequestImage/RequestImage.pde
+processing-4.3/modes/java/examples/Basics/Image/Transparency/data/moonwalk.jpg
+processing-4.3/modes/java/examples/Basics/Image/Transparency/Transparency.pde
+processing-4.3/modes/java/examples/Basics/Input/Clock/Clock.pde
+processing-4.3/modes/java/examples/Basics/Input/Constrain/Constrain.pde
+processing-4.3/modes/java/examples/Basics/Input/Easing/Easing.pde
+processing-4.3/modes/java/examples/Basics/Input/Keyboard/Keyboard.pde
+processing-4.3/modes/java/examples/Basics/Input/KeyboardFunctions/KeyboardFunctions.pde
+processing-4.3/modes/java/examples/Basics/Input/Milliseconds/Milliseconds.pde
+processing-4.3/modes/java/examples/Basics/Input/Mouse1D/Mouse1D.pde
+processing-4.3/modes/java/examples/Basics/Input/Mouse2D/Mouse2D.pde
+processing-4.3/modes/java/examples/Basics/Input/MouseFunctions/MouseFunctions.pde
+processing-4.3/modes/java/examples/Basics/Input/MousePress/MousePress.pde
+processing-4.3/modes/java/examples/Basics/Input/MouseSignals/MouseSignals.pde
+processing-4.3/modes/java/examples/Basics/Input/StoringInput/StoringInput.pde
+processing-4.3/modes/java/examples/Basics/Lights/Directional/Directional.pde
+processing-4.3/modes/java/examples/Basics/Lights/Mixture/Mixture.pde
+processing-4.3/modes/java/examples/Basics/Lights/MixtureGrid/MixtureGrid.pde
+processing-4.3/modes/java/examples/Basics/Lights/OnOff/OnOff.pde
+processing-4.3/modes/java/examples/Basics/Lights/Reflection/Reflection.pde
+processing-4.3/modes/java/examples/Basics/Lights/Spot/Spot.pde
+processing-4.3/modes/java/examples/Basics/Math/AdditiveWave/AdditiveWave.pde
+processing-4.3/modes/java/examples/Basics/Math/Arctangent/Arctangent.pde
+processing-4.3/modes/java/examples/Basics/Math/Distance1D/Distance1D.pde
+processing-4.3/modes/java/examples/Basics/Math/Distance2D/Distance2D.pde
+processing-4.3/modes/java/examples/Basics/Math/DoubleRandom/DoubleRandom.pde
+processing-4.3/modes/java/examples/Basics/Math/Graphing2DEquation/Graphing2DEquation.pde
+processing-4.3/modes/java/examples/Basics/Math/IncrementDecrement/IncrementDecrement.pde
+processing-4.3/modes/java/examples/Basics/Math/Interpolate/Interpolate.pde
+processing-4.3/modes/java/examples/Basics/Math/Map/Map.pde
+processing-4.3/modes/java/examples/Basics/Math/Noise1D/Noise1D.pde
+processing-4.3/modes/java/examples/Basics/Math/Noise2D/Noise2D.pde
+processing-4.3/modes/java/examples/Basics/Math/Noise3D/Noise3D.pde
+processing-4.3/modes/java/examples/Basics/Math/NoiseWave/NoiseWave.pde
+processing-4.3/modes/java/examples/Basics/Math/OperatorPrecedence/OperatorPrecedence.pde
+processing-4.3/modes/java/examples/Basics/Math/PolarToCartesian/PolarToCartesian.pde
+processing-4.3/modes/java/examples/Basics/Math/Random/Random.pde
+processing-4.3/modes/java/examples/Basics/Math/RandomGaussian/RandomGaussian.pde
+processing-4.3/modes/java/examples/Basics/Math/Sine/Sine.pde
+processing-4.3/modes/java/examples/Basics/Math/SineCosine/SineCosine.pde
+processing-4.3/modes/java/examples/Basics/Math/SineWave/SineWave.pde
+processing-4.3/modes/java/examples/Basics/Objects/CompositeObjects/CompositeObjects.pde
+processing-4.3/modes/java/examples/Basics/Objects/CompositeObjects/Egg.pde
+processing-4.3/modes/java/examples/Basics/Objects/CompositeObjects/EggRing.pde
+processing-4.3/modes/java/examples/Basics/Objects/CompositeObjects/Ring.pde
+processing-4.3/modes/java/examples/Basics/Objects/Inheritance/Inheritance.pde
+processing-4.3/modes/java/examples/Basics/Objects/MultipleConstructors/MultipleConstructors.pde
+processing-4.3/modes/java/examples/Basics/Objects/Objects/Objects.pde
+processing-4.3/modes/java/examples/Basics/Shape/DisableStyle/data/bot1.svg
+processing-4.3/modes/java/examples/Basics/Shape/DisableStyle/DisableStyle.pde
+processing-4.3/modes/java/examples/Basics/Shape/GetChild/data/usa-wikipedia.svg
+processing-4.3/modes/java/examples/Basics/Shape/GetChild/GetChild.pde
+processing-4.3/modes/java/examples/Basics/Shape/LoadDisplayOBJ/data/rocket.mtl
+processing-4.3/modes/java/examples/Basics/Shape/LoadDisplayOBJ/data/rocket.obj
+processing-4.3/modes/java/examples/Basics/Shape/LoadDisplayOBJ/data/rocket.png
+processing-4.3/modes/java/examples/Basics/Shape/LoadDisplayOBJ/LoadDisplayOBJ.pde
+processing-4.3/modes/java/examples/Basics/Shape/LoadDisplaySVG/data/bot1.svg
+processing-4.3/modes/java/examples/Basics/Shape/LoadDisplaySVG/LoadDisplaySVG.pde
+processing-4.3/modes/java/examples/Basics/Shape/ScaleShape/data/bot1.svg
+processing-4.3/modes/java/examples/Basics/Shape/ScaleShape/ScaleShape.pde
+processing-4.3/modes/java/examples/Basics/Shape/ShapeVertices/data/uk.svg
+processing-4.3/modes/java/examples/Basics/Shape/ShapeVertices/ShapeVertices.pde
+processing-4.3/modes/java/examples/Basics/Structure/Coordinates/Coordinates.pde
+processing-4.3/modes/java/examples/Basics/Structure/CreateGraphics/CreateGraphics.pde
+processing-4.3/modes/java/examples/Basics/Structure/CreateGraphics/data/mask.jpg
+processing-4.3/modes/java/examples/Basics/Structure/CreateGraphics/data/test.jpg
+processing-4.3/modes/java/examples/Basics/Structure/Functions/Functions.pde
+processing-4.3/modes/java/examples/Basics/Structure/Loop/Loop.pde
+processing-4.3/modes/java/examples/Basics/Structure/NoLoop/NoLoop.pde
+processing-4.3/modes/java/examples/Basics/Structure/Recursion/Recursion.pde
+processing-4.3/modes/java/examples/Basics/Structure/Redraw/Redraw.pde
+processing-4.3/modes/java/examples/Basics/Structure/SetupDraw/SetupDraw.pde
+processing-4.3/modes/java/examples/Basics/Structure/StatementsComments/StatementsComments.pde
+processing-4.3/modes/java/examples/Basics/Structure/WidthHeight/WidthHeight.pde
+processing-4.3/modes/java/examples/Basics/Transform/Arm/Arm.pde
+processing-4.3/modes/java/examples/Basics/Transform/Rotate/Rotate.pde
+processing-4.3/modes/java/examples/Basics/Transform/RotatePushPop/RotatePushPop.pde
+processing-4.3/modes/java/examples/Basics/Transform/RotateXY/RotateXY.pde
+processing-4.3/modes/java/examples/Basics/Transform/Scale/Scale.pde
+processing-4.3/modes/java/examples/Basics/Transform/Translate/Translate.pde
+processing-4.3/modes/java/examples/Basics/Typography/Letters/data/SourceCodePro-Regular.ttf
+processing-4.3/modes/java/examples/Basics/Typography/Letters/Letters.pde
+processing-4.3/modes/java/examples/Basics/Typography/TextRotation/data/SourceCodePro-Regular.ttf
+processing-4.3/modes/java/examples/Basics/Typography/TextRotation/TextRotation.pde
+processing-4.3/modes/java/examples/Basics/Typography/Words/data/SpaceMono-Regular.ttf
+processing-4.3/modes/java/examples/Basics/Typography/Words/Words.pde
+processing-4.3/modes/java/examples/Basics/Web/EmbeddedLinks/EmbeddedLinks.pde
+processing-4.3/modes/java/examples/Basics/Web/LoadingImages/LoadingImages.pde
+processing-4.3/modes/java/examples/Demos/Graphics/DepthSort/DepthSort.pde
+processing-4.3/modes/java/examples/Demos/Graphics/GetTessGroups/GetTessGroups.pde
+processing-4.3/modes/java/examples/Demos/Graphics/LowLevelGLVboInterleaved/data/frag.glsl
+processing-4.3/modes/java/examples/Demos/Graphics/LowLevelGLVboInterleaved/data/vert.glsl
+processing-4.3/modes/java/examples/Demos/Graphics/LowLevelGLVboInterleaved/LowLevelGLVboInterleaved.pde
+processing-4.3/modes/java/examples/Demos/Graphics/LowLevelGLVboSeparate/data/frag.glsl
+processing-4.3/modes/java/examples/Demos/Graphics/LowLevelGLVboSeparate/data/vert.glsl
+processing-4.3/modes/java/examples/Demos/Graphics/LowLevelGLVboSeparate/LowLevelGLVboSeparate.pde
+processing-4.3/modes/java/examples/Demos/Graphics/MeshTweening/data/frag.glsl
+processing-4.3/modes/java/examples/Demos/Graphics/MeshTweening/data/vert.glsl
+processing-4.3/modes/java/examples/Demos/Graphics/MeshTweening/MeshTweening.pde
+processing-4.3/modes/java/examples/Demos/Graphics/MultipleWindows/MultipleWindows.pde
+processing-4.3/modes/java/examples/Demos/Graphics/Particles/data/sprite.png
+processing-4.3/modes/java/examples/Demos/Graphics/Particles/Particle.pde
+processing-4.3/modes/java/examples/Demos/Graphics/Particles/Particles.pde
+processing-4.3/modes/java/examples/Demos/Graphics/Particles/ParticleSystem.pde
+processing-4.3/modes/java/examples/Demos/Graphics/Patch/Patch.pde
+processing-4.3/modes/java/examples/Demos/Graphics/Planets/data/mercury.jpg
+processing-4.3/modes/java/examples/Demos/Graphics/Planets/data/planet.jpg
+processing-4.3/modes/java/examples/Demos/Graphics/Planets/data/starfield.jpg
+processing-4.3/modes/java/examples/Demos/Graphics/Planets/data/sun.jpg
+processing-4.3/modes/java/examples/Demos/Graphics/Planets/Perlin.pde
+processing-4.3/modes/java/examples/Demos/Graphics/Planets/Planets.pde
+processing-4.3/modes/java/examples/Demos/Graphics/Ribbons/ArcBall.pde
+processing-4.3/modes/java/examples/Demos/Graphics/Ribbons/BSpline.pde
+processing-4.3/modes/java/examples/Demos/Graphics/Ribbons/data/1CBS.pdb
+processing-4.3/modes/java/examples/Demos/Graphics/Ribbons/data/2POR.pdb
+processing-4.3/modes/java/examples/Demos/Graphics/Ribbons/data/4HHB.pdb
+processing-4.3/modes/java/examples/Demos/Graphics/Ribbons/Geometry.pde
+processing-4.3/modes/java/examples/Demos/Graphics/Ribbons/PDB.pde
+processing-4.3/modes/java/examples/Demos/Graphics/Ribbons/Ribbons.pde
+processing-4.3/modes/java/examples/Demos/Graphics/RotatingArcs/RotatingArcs.pde
+processing-4.3/modes/java/examples/Demos/Graphics/TessUpdate/TessUpdate.pde
+processing-4.3/modes/java/examples/Demos/Graphics/Trefoil/data/particle.png
+processing-4.3/modes/java/examples/Demos/Graphics/Trefoil/Surface.pde
+processing-4.3/modes/java/examples/Demos/Graphics/Trefoil/Trefoil.pde
+processing-4.3/modes/java/examples/Demos/Graphics/Wiggling/Wiggling.pde
+processing-4.3/modes/java/examples/Demos/Graphics/Yellowtail/Gesture.pde
+processing-4.3/modes/java/examples/Demos/Graphics/Yellowtail/Vec3f.pde
+processing-4.3/modes/java/examples/Demos/Graphics/Yellowtail/Yellowtail.pde
+processing-4.3/modes/java/examples/Demos/Performance/CubicGridImmediate/CubicGridImmediate.pde
+processing-4.3/modes/java/examples/Demos/Performance/CubicGridRetained/CubicGridRetained.pde
+processing-4.3/modes/java/examples/Demos/Performance/DynamicParticlesImmediate/data/sprite.png
+processing-4.3/modes/java/examples/Demos/Performance/DynamicParticlesImmediate/DynamicParticlesImmediate.pde
+processing-4.3/modes/java/examples/Demos/Performance/DynamicParticlesRetained/data/sprite.png
+processing-4.3/modes/java/examples/Demos/Performance/DynamicParticlesRetained/DynamicParticlesRetained.pde
+processing-4.3/modes/java/examples/Demos/Performance/Esfera/Esfera.pde
+processing-4.3/modes/java/examples/Demos/Performance/LineRendering/LineRendering.pde
+processing-4.3/modes/java/examples/Demos/Performance/QuadRendering/QuadRendering.pde
+processing-4.3/modes/java/examples/Demos/Performance/StaticParticlesImmediate/data/sprite.png
+processing-4.3/modes/java/examples/Demos/Performance/StaticParticlesImmediate/StaticParticlesImmediate.pde
+processing-4.3/modes/java/examples/Demos/Performance/StaticParticlesRetained/data/sprite.png
+processing-4.3/modes/java/examples/Demos/Performance/StaticParticlesRetained/StaticParticlesRetained.pde
+processing-4.3/modes/java/examples/Demos/Performance/TextRendering/TextRendering.pde
+processing-4.3/modes/java/examples/Demos/Tests/MultipleWindows/Arcball.pde
+processing-4.3/modes/java/examples/Demos/Tests/MultipleWindows/MultipleWindows.pde
+processing-4.3/modes/java/examples/Demos/Tests/NoBackgroundTest/NoBackgroundTest.pde
+processing-4.3/modes/java/examples/Demos/Tests/OffscreenTest/OffscreenTest.pde
+processing-4.3/modes/java/examples/Demos/Tests/RedrawTest/RedrawTest.pde
+processing-4.3/modes/java/examples/Demos/Tests/ResizeTest/ResizeTest.pde
+processing-4.3/modes/java/examples/Demos/Tests/SpecsTest/SpecsTest.pde
+processing-4.3/modes/java/examples/README.md
+processing-4.3/modes/java/examples/Topics/Advanced Data/ArrayListClass/ArrayListClass.pde
+processing-4.3/modes/java/examples/Topics/Advanced Data/ArrayListClass/Ball.pde
+processing-4.3/modes/java/examples/Topics/Advanced Data/CountingStrings/CountingStrings.pde
+processing-4.3/modes/java/examples/Topics/Advanced Data/CountingStrings/data/dracula.txt
+processing-4.3/modes/java/examples/Topics/Advanced Data/CountingStrings/data/SourceCodePro-Regular.ttf
+processing-4.3/modes/java/examples/Topics/Advanced Data/HashMapClass/data/dracula.txt
+processing-4.3/modes/java/examples/Topics/Advanced Data/HashMapClass/data/frankenstein.txt
+processing-4.3/modes/java/examples/Topics/Advanced Data/HashMapClass/data/SourceCodePro-Regular.ttf
+processing-4.3/modes/java/examples/Topics/Advanced Data/HashMapClass/HashMapClass.pde
+processing-4.3/modes/java/examples/Topics/Advanced Data/HashMapClass/Word.pde
+processing-4.3/modes/java/examples/Topics/Advanced Data/IntListLottery/IntListLottery.pde
+processing-4.3/modes/java/examples/Topics/Advanced Data/LoadSaveJSON/Bubble.pde
+processing-4.3/modes/java/examples/Topics/Advanced Data/LoadSaveJSON/data/data.json
+processing-4.3/modes/java/examples/Topics/Advanced Data/LoadSaveJSON/LoadSaveJSON.pde
+processing-4.3/modes/java/examples/Topics/Advanced Data/LoadSaveTable/Bubble.pde
+processing-4.3/modes/java/examples/Topics/Advanced Data/LoadSaveTable/data/data.csv
+processing-4.3/modes/java/examples/Topics/Advanced Data/LoadSaveTable/LoadSaveTable.pde
+processing-4.3/modes/java/examples/Topics/Advanced Data/LoadSaveXML/Bubble.pde
+processing-4.3/modes/java/examples/Topics/Advanced Data/LoadSaveXML/data/data.xml
+processing-4.3/modes/java/examples/Topics/Advanced Data/LoadSaveXML/LoadSaveXML.pde
+processing-4.3/modes/java/examples/Topics/Advanced Data/Regex/Regex.pde
+processing-4.3/modes/java/examples/Topics/Advanced Data/Threads/Threads.pde
+processing-4.3/modes/java/examples/Topics/Advanced Data/XMLYahooWeather/data/Merriweather-Light.ttf
+processing-4.3/modes/java/examples/Topics/Advanced Data/XMLYahooWeather/data/SourceCodePro-Regular.ttf
+processing-4.3/modes/java/examples/Topics/Advanced Data/XMLYahooWeather/XMLYahooWeather.pde
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/AnimatedSprite.pde
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/Animation.pde
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0000.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0001.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0002.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0003.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0004.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0005.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0006.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0007.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0008.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0009.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0010.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0011.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0012.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0013.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0014.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0015.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0016.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0017.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0018.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0019.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0020.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0021.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0022.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0023.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0024.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0025.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0026.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0027.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0028.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0029.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0030.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0031.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0032.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0033.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0034.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0035.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0036.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Shifty_0037.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0000.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0001.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0002.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0003.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0004.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0005.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0006.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0007.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0008.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0009.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0010.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0011.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0012.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0013.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0014.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0015.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0016.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0017.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0018.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0019.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0020.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0021.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0022.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0023.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0024.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0025.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0026.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0027.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0028.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0029.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0030.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0031.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0032.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0033.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0034.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0035.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0036.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0037.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0038.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0039.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0040.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0041.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0042.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0043.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0044.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0045.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0046.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0047.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0048.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0049.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0050.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0051.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0052.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0053.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0054.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0055.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0056.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0057.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0058.gif
+processing-4.3/modes/java/examples/Topics/Animation/AnimatedSprite/data/PT_Teddy_0059.gif
+processing-4.3/modes/java/examples/Topics/Animation/Sequential/data/PT_anim0000.gif
+processing-4.3/modes/java/examples/Topics/Animation/Sequential/data/PT_anim0001.gif
+processing-4.3/modes/java/examples/Topics/Animation/Sequential/data/PT_anim0002.gif
+processing-4.3/modes/java/examples/Topics/Animation/Sequential/data/PT_anim0003.gif
+processing-4.3/modes/java/examples/Topics/Animation/Sequential/data/PT_anim0004.gif
+processing-4.3/modes/java/examples/Topics/Animation/Sequential/data/PT_anim0005.gif
+processing-4.3/modes/java/examples/Topics/Animation/Sequential/data/PT_anim0006.gif
+processing-4.3/modes/java/examples/Topics/Animation/Sequential/data/PT_anim0007.gif
+processing-4.3/modes/java/examples/Topics/Animation/Sequential/data/PT_anim0008.gif
+processing-4.3/modes/java/examples/Topics/Animation/Sequential/data/PT_anim0009.gif
+processing-4.3/modes/java/examples/Topics/Animation/Sequential/data/PT_anim0010.gif
+processing-4.3/modes/java/examples/Topics/Animation/Sequential/data/PT_anim0011.gif
+processing-4.3/modes/java/examples/Topics/Animation/Sequential/Sequential.pde
+processing-4.3/modes/java/examples/Topics/Cellular Automata/GameOfLife/GameOfLife.pde
+processing-4.3/modes/java/examples/Topics/Cellular Automata/Spore1/Spore1.pde
+processing-4.3/modes/java/examples/Topics/Cellular Automata/Spore2/Spore2.pde
+processing-4.3/modes/java/examples/Topics/Cellular Automata/Wolfram/CA.pde
+processing-4.3/modes/java/examples/Topics/Cellular Automata/Wolfram/Wolfram.pde
+processing-4.3/modes/java/examples/Topics/Create Shapes/BeginEndContour/BeginEndContour.pde
+processing-4.3/modes/java/examples/Topics/Create Shapes/GroupPShape/GroupPShape.pde
+processing-4.3/modes/java/examples/Topics/Create Shapes/ParticleSystemPShape/data/sprite.png
+processing-4.3/modes/java/examples/Topics/Create Shapes/ParticleSystemPShape/Particle.pde
+processing-4.3/modes/java/examples/Topics/Create Shapes/ParticleSystemPShape/ParticleSystem.pde
+processing-4.3/modes/java/examples/Topics/Create Shapes/ParticleSystemPShape/ParticleSystemPShape.pde
+processing-4.3/modes/java/examples/Topics/Create Shapes/PathPShape/PathPShape.pde
+processing-4.3/modes/java/examples/Topics/Create Shapes/PolygonPShape/PolygonPShape.pde
+processing-4.3/modes/java/examples/Topics/Create Shapes/PolygonPShapeOOP/PolygonPShapeOOP.pde
+processing-4.3/modes/java/examples/Topics/Create Shapes/PolygonPShapeOOP/Star.pde
+processing-4.3/modes/java/examples/Topics/Create Shapes/PolygonPShapeOOP2/Polygon.pde
+processing-4.3/modes/java/examples/Topics/Create Shapes/PolygonPShapeOOP2/PolygonPShapeOOP2.pde
+processing-4.3/modes/java/examples/Topics/Create Shapes/PolygonPShapeOOP3/Polygon.pde
+processing-4.3/modes/java/examples/Topics/Create Shapes/PolygonPShapeOOP3/PolygonPShapeOOP3.pde
+processing-4.3/modes/java/examples/Topics/Create Shapes/PrimitivePShape/PrimitivePShape.pde
+processing-4.3/modes/java/examples/Topics/Create Shapes/WigglePShape/WigglePShape.pde
+processing-4.3/modes/java/examples/Topics/Create Shapes/WigglePShape/Wiggler.pde
+processing-4.3/modes/java/examples/Topics/Curves/ArcLengthParametrization/ArcLengthParametrization.pde
+processing-4.3/modes/java/examples/Topics/Curves/ArcLengthParametrization/BezierCurve.pde
+processing-4.3/modes/java/examples/Topics/Drawing/ContinuousLines/ContinuousLines.pde
+processing-4.3/modes/java/examples/Topics/Drawing/Pattern/Pattern.pde
+processing-4.3/modes/java/examples/Topics/Drawing/Pulses/Pulses.pde
+processing-4.3/modes/java/examples/Topics/File IO/DirectoryList/DirectoryList.pde
+processing-4.3/modes/java/examples/Topics/File IO/LoadFile1/data/positions.txt
+processing-4.3/modes/java/examples/Topics/File IO/LoadFile1/LoadFile1.pde
+processing-4.3/modes/java/examples/Topics/File IO/LoadFile2/data/cars2.tsv
+processing-4.3/modes/java/examples/Topics/File IO/LoadFile2/data/TheSans-Plain-12.vlw
+processing-4.3/modes/java/examples/Topics/File IO/LoadFile2/LoadFile2.pde
+processing-4.3/modes/java/examples/Topics/File IO/LoadFile2/Record.pde
+processing-4.3/modes/java/examples/Topics/File IO/SaveFile1/SaveFile1.pde
+processing-4.3/modes/java/examples/Topics/File IO/SaveFile2/SaveFile2.pde
+processing-4.3/modes/java/examples/Topics/File IO/SaveFrames/SaveFrames.pde
+processing-4.3/modes/java/examples/Topics/File IO/SaveOneImage/SaveOneImage.pde
+processing-4.3/modes/java/examples/Topics/File IO/TileImages/TileImages.pde
+processing-4.3/modes/java/examples/Topics/Fractals and L-Systems/Koch/Koch.pde
+processing-4.3/modes/java/examples/Topics/Fractals and L-Systems/Koch/KochFractal.pde
+processing-4.3/modes/java/examples/Topics/Fractals and L-Systems/Koch/KochLine.pde
+processing-4.3/modes/java/examples/Topics/Fractals and L-Systems/Mandelbrot/Mandelbrot.pde
+processing-4.3/modes/java/examples/Topics/Fractals and L-Systems/PenroseSnowflake/LSystem.pde
+processing-4.3/modes/java/examples/Topics/Fractals and L-Systems/PenroseSnowflake/PenroseSnowflake.pde
+processing-4.3/modes/java/examples/Topics/Fractals and L-Systems/PenroseSnowflake/PenroseSnowflakeLSystem.pde
+processing-4.3/modes/java/examples/Topics/Fractals and L-Systems/PenroseTile/LSystem.pde
+processing-4.3/modes/java/examples/Topics/Fractals and L-Systems/PenroseTile/PenroseLSystem.pde
+processing-4.3/modes/java/examples/Topics/Fractals and L-Systems/PenroseTile/PenroseTile.pde
+processing-4.3/modes/java/examples/Topics/Fractals and L-Systems/Pentigree/LSystem.pde
+processing-4.3/modes/java/examples/Topics/Fractals and L-Systems/Pentigree/Pentigree.pde
+processing-4.3/modes/java/examples/Topics/Fractals and L-Systems/Pentigree/PentigreeLSystem.pde
+processing-4.3/modes/java/examples/Topics/Fractals and L-Systems/Tree/Tree.pde
+processing-4.3/modes/java/examples/Topics/Geometry/Icosahedra/Dimension3D.pde
+processing-4.3/modes/java/examples/Topics/Geometry/Icosahedra/Icosahedra.pde
+processing-4.3/modes/java/examples/Topics/Geometry/Icosahedra/Icosahedron.pde
+processing-4.3/modes/java/examples/Topics/Geometry/Icosahedra/Shape3D.pde
+processing-4.3/modes/java/examples/Topics/Geometry/NoiseSphere/NoiseSphere.pde
+processing-4.3/modes/java/examples/Topics/Geometry/RGBCube/RGBCube.pde
+processing-4.3/modes/java/examples/Topics/Geometry/ShapeTransform/ShapeTransform.pde
+processing-4.3/modes/java/examples/Topics/Geometry/SpaceJunk/Cube.pde
+processing-4.3/modes/java/examples/Topics/Geometry/SpaceJunk/SpaceJunk.pde
+processing-4.3/modes/java/examples/Topics/Geometry/Toroid/Toroid.pde
+processing-4.3/modes/java/examples/Topics/Geometry/Vertices/Vertices.pde
+processing-4.3/modes/java/examples/Topics/GUI/Button/Button.pde
+processing-4.3/modes/java/examples/Topics/GUI/Handles/Handles.pde
+processing-4.3/modes/java/examples/Topics/GUI/Rollover/Rollover.pde
+processing-4.3/modes/java/examples/Topics/GUI/Scrollbar/data/seedBottom.jpg
+processing-4.3/modes/java/examples/Topics/GUI/Scrollbar/data/seedTop.jpg
+processing-4.3/modes/java/examples/Topics/GUI/Scrollbar/Scrollbar.pde
+processing-4.3/modes/java/examples/Topics/Image Processing/Blending/Blending.pde
+processing-4.3/modes/java/examples/Topics/Image Processing/Blending/data/layer1.jpg
+processing-4.3/modes/java/examples/Topics/Image Processing/Blending/data/layer2.jpg
+processing-4.3/modes/java/examples/Topics/Image Processing/Blur/Blur.pde
+processing-4.3/modes/java/examples/Topics/Image Processing/Blur/data/moon.jpg
+processing-4.3/modes/java/examples/Topics/Image Processing/BrightnessPixels/BrightnessPixels.pde
+processing-4.3/modes/java/examples/Topics/Image Processing/BrightnessPixels/data/moon-wide.jpg
+processing-4.3/modes/java/examples/Topics/Image Processing/Convolution/Convolution.pde
+processing-4.3/modes/java/examples/Topics/Image Processing/Convolution/data/moon-wide.jpg
+processing-4.3/modes/java/examples/Topics/Image Processing/EdgeDetection/data/moon.jpg
+processing-4.3/modes/java/examples/Topics/Image Processing/EdgeDetection/EdgeDetection.pde
+processing-4.3/modes/java/examples/Topics/Image Processing/Explode/data/eames.jpg
+processing-4.3/modes/java/examples/Topics/Image Processing/Explode/Explode.pde
+processing-4.3/modes/java/examples/Topics/Image Processing/Extrusion/data/ystone08.jpg
+processing-4.3/modes/java/examples/Topics/Image Processing/Extrusion/Extrusion.pde
+processing-4.3/modes/java/examples/Topics/Image Processing/Histogram/data/frontier.jpg
+processing-4.3/modes/java/examples/Topics/Image Processing/Histogram/Histogram.pde
+processing-4.3/modes/java/examples/Topics/Image Processing/LinearImage/data/sea.jpg
+processing-4.3/modes/java/examples/Topics/Image Processing/LinearImage/LinearImage.pde
+processing-4.3/modes/java/examples/Topics/Image Processing/PixelArray/data/sea.jpg
+processing-4.3/modes/java/examples/Topics/Image Processing/PixelArray/PixelArray.pde
+processing-4.3/modes/java/examples/Topics/Image Processing/Sharpen/data/moon.jpg
+processing-4.3/modes/java/examples/Topics/Image Processing/Sharpen/Sharpen.pde
+processing-4.3/modes/java/examples/Topics/Image Processing/Zoom/data/ystone08.jpg
+processing-4.3/modes/java/examples/Topics/Image Processing/Zoom/Zoom.pde
+processing-4.3/modes/java/examples/Topics/Interaction/Follow1/Follow1.pde
+processing-4.3/modes/java/examples/Topics/Interaction/Follow2/Follow2.pde
+processing-4.3/modes/java/examples/Topics/Interaction/Follow3/Follow3.pde
+processing-4.3/modes/java/examples/Topics/Interaction/Reach1/Reach1.pde
+processing-4.3/modes/java/examples/Topics/Interaction/Reach2/Reach2.pde
+processing-4.3/modes/java/examples/Topics/Interaction/Reach3/Reach3.pde
+processing-4.3/modes/java/examples/Topics/Interaction/Tickle/data/SourceCodePro-Regular.ttf
+processing-4.3/modes/java/examples/Topics/Interaction/Tickle/Tickle.pde
+processing-4.3/modes/java/examples/Topics/Motion/Bounce/Bounce.pde
+processing-4.3/modes/java/examples/Topics/Motion/BouncyBubbles/BouncyBubbles.pde
+processing-4.3/modes/java/examples/Topics/Motion/Brownian/Brownian.pde
+processing-4.3/modes/java/examples/Topics/Motion/CircleCollision/Ball.pde
+processing-4.3/modes/java/examples/Topics/Motion/CircleCollision/CircleCollision.pde
+processing-4.3/modes/java/examples/Topics/Motion/CubesWithinCube/Cube.pde
+processing-4.3/modes/java/examples/Topics/Motion/CubesWithinCube/CubesWithinCube.pde
+processing-4.3/modes/java/examples/Topics/Motion/Linear/Linear.pde
+processing-4.3/modes/java/examples/Topics/Motion/Morph/Morph.pde
+processing-4.3/modes/java/examples/Topics/Motion/MovingOnCurves/MovingOnCurves.pde
+processing-4.3/modes/java/examples/Topics/Motion/Reflection1/Reflection1.pde
+processing-4.3/modes/java/examples/Topics/Motion/Reflection2/Ground.pde
+processing-4.3/modes/java/examples/Topics/Motion/Reflection2/Orb.pde
+processing-4.3/modes/java/examples/Topics/Motion/Reflection2/Reflection2.pde
+processing-4.3/modes/java/examples/Topics/Shaders/BlurFilter/BlurFilter.pde
+processing-4.3/modes/java/examples/Topics/Shaders/BlurFilter/data/blur.glsl
+processing-4.3/modes/java/examples/Topics/Shaders/Conway/Conway.pde
+processing-4.3/modes/java/examples/Topics/Shaders/Conway/data/conway.glsl
+processing-4.3/modes/java/examples/Topics/Shaders/CustomBlend/CustomBlend.pde
+processing-4.3/modes/java/examples/Topics/Shaders/CustomBlend/data/burn.glsl
+processing-4.3/modes/java/examples/Topics/Shaders/CustomBlend/data/difference.glsl
+processing-4.3/modes/java/examples/Topics/Shaders/CustomBlend/data/dodge.glsl
+processing-4.3/modes/java/examples/Topics/Shaders/CustomBlend/data/leaves.jpg
+processing-4.3/modes/java/examples/Topics/Shaders/CustomBlend/data/moonwalk.jpg
+processing-4.3/modes/java/examples/Topics/Shaders/CustomBlend/data/overlay.glsl
+processing-4.3/modes/java/examples/Topics/Shaders/Deform/data/deform.glsl
+processing-4.3/modes/java/examples/Topics/Shaders/Deform/data/tex1.jpg
+processing-4.3/modes/java/examples/Topics/Shaders/Deform/Deform.pde
+processing-4.3/modes/java/examples/Topics/Shaders/DomeProjection/CubeMapUtils.pde
+processing-4.3/modes/java/examples/Topics/Shaders/DomeProjection/data/cubemapfrag.glsl
+processing-4.3/modes/java/examples/Topics/Shaders/DomeProjection/data/cubemapvert.glsl
+processing-4.3/modes/java/examples/Topics/Shaders/DomeProjection/DomeProjection.pde
+processing-4.3/modes/java/examples/Topics/Shaders/EdgeDetect/data/edges.glsl
+processing-4.3/modes/java/examples/Topics/Shaders/EdgeDetect/data/leaves.jpg
+processing-4.3/modes/java/examples/Topics/Shaders/EdgeDetect/EdgeDetect.pde
+processing-4.3/modes/java/examples/Topics/Shaders/EdgeFilter/data/edges.glsl
+processing-4.3/modes/java/examples/Topics/Shaders/EdgeFilter/EdgeFilter.pde
+processing-4.3/modes/java/examples/Topics/Shaders/GlossyFishEye/data/FishEye.glsl
+processing-4.3/modes/java/examples/Topics/Shaders/GlossyFishEye/data/GlossyFrag.glsl
+processing-4.3/modes/java/examples/Topics/Shaders/GlossyFishEye/data/GlossyVert.glsl
+processing-4.3/modes/java/examples/Topics/Shaders/GlossyFishEye/GlossyFishEye.pde
+processing-4.3/modes/java/examples/Topics/Shaders/ImageMask/data/leaves.jpg
+processing-4.3/modes/java/examples/Topics/Shaders/ImageMask/data/mask.glsl
+processing-4.3/modes/java/examples/Topics/Shaders/ImageMask/ImageMask.pde
+processing-4.3/modes/java/examples/Topics/Shaders/InfiniteTiles/data/penrose.jpg
+processing-4.3/modes/java/examples/Topics/Shaders/InfiniteTiles/data/scroller.glsl
+processing-4.3/modes/java/examples/Topics/Shaders/InfiniteTiles/InfiniteTiles.pde
+processing-4.3/modes/java/examples/Topics/Shaders/Landscape/data/landscape.glsl
+processing-4.3/modes/java/examples/Topics/Shaders/Landscape/Landscape.pde
+processing-4.3/modes/java/examples/Topics/Shaders/Monjori/data/monjori.glsl
+processing-4.3/modes/java/examples/Topics/Shaders/Monjori/Monjori.pde
+processing-4.3/modes/java/examples/Topics/Shaders/Nebula/data/nebula.glsl
+processing-4.3/modes/java/examples/Topics/Shaders/Nebula/Nebula.pde
+processing-4.3/modes/java/examples/Topics/Shaders/SepBlur/data/blur.glsl
+processing-4.3/modes/java/examples/Topics/Shaders/SepBlur/SepBlur.pde
+processing-4.3/modes/java/examples/Topics/Shaders/ToonShading/data/ToonFrag.glsl
+processing-4.3/modes/java/examples/Topics/Shaders/ToonShading/data/ToonVert.glsl
+processing-4.3/modes/java/examples/Topics/Shaders/ToonShading/ToonShading.pde
+processing-4.3/modes/java/examples/Topics/Simulate/Flocking/Boid.pde
+processing-4.3/modes/java/examples/Topics/Simulate/Flocking/Flock.pde
+processing-4.3/modes/java/examples/Topics/Simulate/Flocking/Flocking.pde
+processing-4.3/modes/java/examples/Topics/Simulate/ForcesWithVectors/ForcesWithVectors.pde
+processing-4.3/modes/java/examples/Topics/Simulate/ForcesWithVectors/Liquid.pde
+processing-4.3/modes/java/examples/Topics/Simulate/ForcesWithVectors/Mover.pde
+processing-4.3/modes/java/examples/Topics/Simulate/GravitationalAttraction3D/GravitationalAttraction3D.pde
+processing-4.3/modes/java/examples/Topics/Simulate/GravitationalAttraction3D/Planet.pde
+processing-4.3/modes/java/examples/Topics/Simulate/GravitationalAttraction3D/Sun.pde
+processing-4.3/modes/java/examples/Topics/Simulate/MultipleParticleSystems/CrazyParticle.pde
+processing-4.3/modes/java/examples/Topics/Simulate/MultipleParticleSystems/MultipleParticleSystems.pde
+processing-4.3/modes/java/examples/Topics/Simulate/MultipleParticleSystems/Particle.pde
+processing-4.3/modes/java/examples/Topics/Simulate/MultipleParticleSystems/ParticleSystem.pde
+processing-4.3/modes/java/examples/Topics/Simulate/SimpleParticleSystem/Particle.pde
+processing-4.3/modes/java/examples/Topics/Simulate/SimpleParticleSystem/ParticleSystem.pde
+processing-4.3/modes/java/examples/Topics/Simulate/SimpleParticleSystem/SimpleParticleSystem.pde
+processing-4.3/modes/java/examples/Topics/Simulate/SmokeParticleSystem/data/texture.gif
+processing-4.3/modes/java/examples/Topics/Simulate/SmokeParticleSystem/data/texture.png
+processing-4.3/modes/java/examples/Topics/Simulate/SmokeParticleSystem/Particle.pde
+processing-4.3/modes/java/examples/Topics/Simulate/SmokeParticleSystem/ParticleSystem.pde
+processing-4.3/modes/java/examples/Topics/Simulate/SmokeParticleSystem/SmokeParticleSystem.pde
+processing-4.3/modes/java/examples/Topics/Simulate/SoftBody/SoftBody.pde
+processing-4.3/modes/java/examples/Topics/Textures/TextureCube/data/berlin-1.jpg
+processing-4.3/modes/java/examples/Topics/Textures/TextureCube/data/uvtex.jpg
+processing-4.3/modes/java/examples/Topics/Textures/TextureCube/TextureCube.pde
+processing-4.3/modes/java/examples/Topics/Textures/TextureCylinder/data/berlin-1.jpg
+processing-4.3/modes/java/examples/Topics/Textures/TextureCylinder/TextureCylinder.pde
+processing-4.3/modes/java/examples/Topics/Textures/TextureQuad/data/berlin-1.jpg
+processing-4.3/modes/java/examples/Topics/Textures/TextureQuad/TextureQuad.pde
+processing-4.3/modes/java/examples/Topics/Textures/TextureSphere/data/world32k.jpg
+processing-4.3/modes/java/examples/Topics/Textures/TextureSphere/TextureSphere.pde
+processing-4.3/modes/java/examples/Topics/Textures/TextureTriangle/data/berlin-1.jpg
+processing-4.3/modes/java/examples/Topics/Textures/TextureTriangle/TextureTriangle.pde
+processing-4.3/modes/java/examples/Topics/Vectors/AccelerationWithVectors/AccelerationWithVectors.pde
+processing-4.3/modes/java/examples/Topics/Vectors/AccelerationWithVectors/Mover.pde
+processing-4.3/modes/java/examples/Topics/Vectors/BouncingBall/BouncingBall.pde
+processing-4.3/modes/java/examples/Topics/Vectors/VectorMath/VectorMath.pde
+processing-4.3/modes/java/keywords.txt
+processing-4.3/modes/java/libraries/dxf/examples/SimpleExport/SimpleExport.pde
+processing-4.3/modes/java/libraries/dxf/library.properties
+processing-4.3/modes/java/libraries/dxf/library/dxf.jar
+processing-4.3/modes/java/libraries/io/examples/AnalogDigital_I2C_ADS1X15/ADS1X15.pde
+processing-4.3/modes/java/libraries/io/examples/AnalogDigital_I2C_ADS1X15/AnalogDigital_I2C_ADS1X15.pde
+processing-4.3/modes/java/libraries/io/examples/AnalogDigital_I2C_ADS1X15/setup.png
+processing-4.3/modes/java/libraries/io/examples/AnalogDigital_SPI_MCP3001/AnalogDigital_SPI_MCP3001.pde
+processing-4.3/modes/java/libraries/io/examples/AnalogDigital_SPI_MCP3001/MCP3001.pde
+processing-4.3/modes/java/libraries/io/examples/AnalogDigital_SPI_MCP3001/setup.png
+processing-4.3/modes/java/libraries/io/examples/AnalogDigital_SPI_MCP3008/AnalogDigital_SPI_MCP3008.pde
+processing-4.3/modes/java/libraries/io/examples/AnalogDigital_SPI_MCP3008/MCP3008.pde
+processing-4.3/modes/java/libraries/io/examples/AnalogDigital_SPI_MCP3008/setup.png
+processing-4.3/modes/java/libraries/io/examples/Compass_I2C_HMC6352/Compass_I2C_HMC6352.pde
+processing-4.3/modes/java/libraries/io/examples/Compass_I2C_HMC6352/HMC6352.pde
+processing-4.3/modes/java/libraries/io/examples/Compass_I2C_HMC6352/setup.png
+processing-4.3/modes/java/libraries/io/examples/DigitalAnalog_I2C_MCP4725/DigitalAnalog_I2C_MCP4725.pde
+processing-4.3/modes/java/libraries/io/examples/DigitalAnalog_I2C_MCP4725/MCP4725.pde
+processing-4.3/modes/java/libraries/io/examples/Display_I2C_SSD1306/Display_I2C_SSD1306.pde
+processing-4.3/modes/java/libraries/io/examples/Display_I2C_SSD1306/SSD1306.pde
+processing-4.3/modes/java/libraries/io/examples/Environment_I2C_BME280/BME280.pde
+processing-4.3/modes/java/libraries/io/examples/Environment_I2C_BME280/Environment_I2C_BME280.pde
+processing-4.3/modes/java/libraries/io/examples/Environment_I2C_BME280/setup.png
+processing-4.3/modes/java/libraries/io/examples/Interrupt/Interrupt.pde
+processing-4.3/modes/java/libraries/io/examples/Interrupt/setup.png
+processing-4.3/modes/java/libraries/io/examples/LedCounter/LedCounter.pde
+processing-4.3/modes/java/libraries/io/examples/Light_I2C_TSL2561/Light_I2C_TSL2561.pde
+processing-4.3/modes/java/libraries/io/examples/Light_I2C_TSL2561/setup.png
+processing-4.3/modes/java/libraries/io/examples/Light_I2C_TSL2561/TSL2561.pde
+processing-4.3/modes/java/libraries/io/examples/Servo_I2C_PCA9685/PCA9685.pde
+processing-4.3/modes/java/libraries/io/examples/Servo_I2C_PCA9685/Servo_I2C_PCA9685.pde
+processing-4.3/modes/java/libraries/io/examples/Servo_I2C_PCA9685/setup.png
+processing-4.3/modes/java/libraries/io/examples/SimpleI2C/SimpleI2C.pde
+processing-4.3/modes/java/libraries/io/examples/SimpleInput/setup.png
+processing-4.3/modes/java/libraries/io/examples/SimpleInput/SimpleInput.pde
+processing-4.3/modes/java/libraries/io/examples/SimpleOutput/setup.png
+processing-4.3/modes/java/libraries/io/examples/SimpleOutput/SimpleOutput.pde
+processing-4.3/modes/java/libraries/io/examples/SimpleResistorSensor/setup.png
+processing-4.3/modes/java/libraries/io/examples/SimpleResistorSensor/SimpleResistorSensor.pde
+processing-4.3/modes/java/libraries/io/examples/SimpleSPI/setup.png
+processing-4.3/modes/java/libraries/io/examples/SimpleSPI/SimpleSPI.pde
+processing-4.3/modes/java/libraries/io/examples/SoftwareServoSweep/setup.png
+processing-4.3/modes/java/libraries/io/examples/SoftwareServoSweep/setup_better.png
+processing-4.3/modes/java/libraries/io/examples/SoftwareServoSweep/SoftwareServoSweep.pde
+processing-4.3/modes/java/libraries/io/examples/Touch_I2C_MPR121/MPR121.pde
+processing-4.3/modes/java/libraries/io/examples/Touch_I2C_MPR121/setup.png
+processing-4.3/modes/java/libraries/io/examples/Touch_I2C_MPR121/Touch_I2C_MPR121.pde
+processing-4.3/modes/java/libraries/io/library.properties
+processing-4.3/modes/java/libraries/io/library/export.txt
+processing-4.3/modes/java/libraries/io/library/linux-arm64/libprocessing-io.so
+processing-4.3/modes/java/libraries/io/library/linux-armv6hf/libprocessing-io.so
+processing-4.3/modes/java/libraries/io/library/linux32/libprocessing-io.so
+processing-4.3/modes/java/libraries/io/library/linux64/libprocessing-io.so
+processing-4.3/modes/java/libraries/net/examples/ChatServer/ChatServer.pde
+processing-4.3/modes/java/libraries/net/examples/ChatServer/data/ScalaSans-Caps-32.vlw
+processing-4.3/modes/java/libraries/net/examples/HTTPClient/HTTPClient.pde
+processing-4.3/modes/java/libraries/net/examples/SharedCanvasClient/SharedCanvasClient.pde
+processing-4.3/modes/java/libraries/net/examples/SharedCanvasServer/SharedCanvasServer.pde
+processing-4.3/modes/java/libraries/net/library.properties
+processing-4.3/modes/java/libraries/net/library/net.jar
+processing-4.3/modes/java/libraries/pdf/examples/Complex3D/Complex3D.pde
+processing-4.3/modes/java/libraries/pdf/examples/LargePage/LargePage.pde
+processing-4.3/modes/java/libraries/pdf/examples/ManyPages/ManyPages.pde
+processing-4.3/modes/java/libraries/pdf/examples/ManyPDFs/ManyPDFs.pde
+processing-4.3/modes/java/libraries/pdf/examples/MousePress/MousePress.pde
+processing-4.3/modes/java/libraries/pdf/examples/MultipleFrames/MultipleFrames.pde
+processing-4.3/modes/java/libraries/pdf/examples/OneFrame/OneFrame.pde
+processing-4.3/modes/java/libraries/pdf/examples/RandomBook/RandomBook.pde
+processing-4.3/modes/java/libraries/pdf/library.properties
+processing-4.3/modes/java/libraries/pdf/library/itext.jar
+processing-4.3/modes/java/libraries/pdf/library/pdf.jar
+processing-4.3/modes/java/libraries/serial/examples/SerialCallResponse/SerialCallResponse.pde
+processing-4.3/modes/java/libraries/serial/examples/SerialDuplex/data/CourierNewPSMT-24.vlw
+processing-4.3/modes/java/libraries/serial/examples/SerialDuplex/SerialDuplex.pde
+processing-4.3/modes/java/libraries/serial/examples/SerialMultiple/SerialMultiple.pde
+processing-4.3/modes/java/libraries/serial/examples/SimpleRead/SimpleRead.pde
+processing-4.3/modes/java/libraries/serial/examples/SimpleWrite/SimpleWrite.pde
+processing-4.3/modes/java/libraries/serial/library.properties
+processing-4.3/modes/java/libraries/serial/library/jssc.jar
+processing-4.3/modes/java/libraries/serial/library/jssc.txt
+processing-4.3/modes/java/libraries/serial/library/serial.jar
+processing-4.3/modes/java/libraries/svg/library.properties
+processing-4.3/modes/java/libraries/svg/library/batik.jar
+processing-4.3/modes/java/libraries/svg/library/LICENSE
+processing-4.3/modes/java/libraries/svg/library/svg.jar
+processing-4.3/modes/java/mode/.options
+processing-4.3/modes/java/mode/about.html
+processing-4.3/modes/java/mode/antlr-4.7.2-complete.jar
+processing-4.3/modes/java/mode/antlr-src.zip
+processing-4.3/modes/java/mode/antlr.jar
+processing-4.3/modes/java/mode/classpath-explorer-1.0.jar
+processing-4.3/modes/java/mode/com.ibm.icu.jar
+processing-4.3/modes/java/mode/gson.jar
+processing-4.3/modes/java/mode/JavaMode.jar
+processing-4.3/modes/java/mode/jdtCompilerAdapter.jar
+processing-4.3/modes/java/mode/jsoup-1.7.1.jar
+processing-4.3/modes/java/mode/org.eclipse.core.contenttype.jar
+processing-4.3/modes/java/mode/org.eclipse.core.jobs.jar
+processing-4.3/modes/java/mode/org.eclipse.core.resources.jar
+processing-4.3/modes/java/mode/org.eclipse.core.runtime.jar
+processing-4.3/modes/java/mode/org.eclipse.equinox.common.jar
+processing-4.3/modes/java/mode/org.eclipse.equinox.preferences.jar
+processing-4.3/modes/java/mode/org.eclipse.jdt.compiler.apt.jar
+processing-4.3/modes/java/mode/org.eclipse.jdt.core.jar
+processing-4.3/modes/java/mode/org.eclipse.lsp4j.jar
+processing-4.3/modes/java/mode/org.eclipse.lsp4j.jsonrpc.jar
+processing-4.3/modes/java/mode/org.eclipse.osgi.jar
+processing-4.3/modes/java/mode/org.eclipse.text.jar
+processing-4.3/modes/java/mode/org.netbeans.swing.outline.jar
+processing-4.3/modes/java/mode/plugin.properties
+processing-4.3/modes/java/mode/plugin.xml
+processing-4.3/modes/java/mode/readme.txt
+processing-4.3/modes/java/theme/completion/class.svg
+processing-4.3/modes/java/theme/completion/field.svg
+processing-4.3/modes/java/theme/completion/local.svg
+processing-4.3/modes/java/theme/completion/method.svg
+processing-4.3/modes/java/theme/variables/array.svg
+processing-4.3/modes/java/theme/variables/boolean.svg
+processing-4.3/modes/java/theme/variables/byte.svg
+processing-4.3/modes/java/theme/variables/char.svg
+processing-4.3/modes/java/theme/variables/double.svg
+processing-4.3/modes/java/theme/variables/float.svg
+processing-4.3/modes/java/theme/variables/integer.svg
+processing-4.3/modes/java/theme/variables/long.svg
+processing-4.3/modes/java/theme/variables/object.svg
+processing-4.3/modes/java/theme/variables/short.svg
+processing-4.3/modes/java/theme/variables/string.svg
+processing-4.3/processing-java.exe
+processing-4.3/processing.exe
+processing-4.3/revisions.md
+processing-4.3/tools/MovieMaker/tool.properties
+processing-4.3/tools/MovieMaker/tool/ffmpeg.exe
+processing-4.3/tools/MovieMaker/tool/MovieMaker.jar
+/processing-4.3
